@@ -7,12 +7,12 @@ I am not the author and i am not associated with FFBeast
 
 I am also not responsible for any damage to hardware caused by bad code
 
-#Requirements
+# Requirements
 
 - FFBeast firmware
 - Ghidra
 - Having some ghidra knowledge
-#How to
+# How to
 
 Getting the code:
 1) Download the python script
